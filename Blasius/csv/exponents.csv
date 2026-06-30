@@ -1,0 +1,13 @@
+method,variable,normalized_exponent
+MI-DL,U,0.5196277520939139
+MI-DL,nu,-0.519627752093914
+MI-DL,x,-0.48037224790608574
+MI-DL,y,1.0
+SI-DL,U,0.5081748297366853
+SI-DL,nu,-0.5081748297366853
+SI-DL,x,-0.49182517026331474
+SI-DL,y,1.0
+Known Blasius,U,0.5
+Known Blasius,nu,-0.5
+Known Blasius,x,-0.5
+Known Blasius,y,1.0

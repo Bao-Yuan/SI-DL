@@ -1,0 +1,31 @@
+method,pi_group,variable,normalized_exponent
+MI-DL,pi1,u,0.998709130751796
+MI-DL,pi1,rho,0.9987091307517968
+MI-DL,pi1,D,1.0
+MI-DL,pi1,k_s,-0.0012908692482013426
+MI-DL,pi1,mu,-0.9987091307517968
+MI-DL,pi2,u,0.2505653025948897
+MI-DL,pi2,rho,0.25056530259488985
+MI-DL,pi2,D,-0.7494346974051095
+MI-DL,pi2,k_s,1.0
+MI-DL,pi2,mu,-0.25056530259488985
+SI-DL,pi1,u,1.0
+SI-DL,pi1,rho,1.0
+SI-DL,pi1,D,0.23423725086294048
+SI-DL,pi1,k_s,0.7657627491370596
+SI-DL,pi1,mu,-1.0
+SI-DL,pi2,u,0.6037203926408655
+SI-DL,pi2,rho,0.6037203926408655
+SI-DL,pi2,D,1.0
+SI-DL,pi2,k_s,-0.3962796073591344
+SI-DL,pi2,mu,-0.6037203926408655
+"Known [Re, k_s/D]",pi1,u,1.0
+"Known [Re, k_s/D]",pi1,rho,1.0
+"Known [Re, k_s/D]",pi1,D,1.0
+"Known [Re, k_s/D]",pi1,k_s,0.0
+"Known [Re, k_s/D]",pi1,mu,-1.0
+"Known [Re, k_s/D]",pi2,u,0.0
+"Known [Re, k_s/D]",pi2,rho,0.0
+"Known [Re, k_s/D]",pi2,D,-1.0
+"Known [Re, k_s/D]",pi2,k_s,1.0
+"Known [Re, k_s/D]",pi2,mu,0.0

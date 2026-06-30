@@ -1,0 +1,37 @@
+method,pi_group,variable,normalized_exponent
+SI-DL single-set DE,pi1,r,-0.0306037280905144
+SI-DL single-set DE,pi1,q_1,0.0013910785495685
+SI-DL single-set DE,pi1,I,-0.5020866178243533
+SI-DL single-set DE,pi1,nu,0.5411295557822509
+SI-DL single-set DE,pi1,K,-1.0
+SI-DL single-set DE,pi1,g,-0.0474821478252806
+SI-DL single-set DE,pi1,omega,0.5524436613187419
+SI-DL single-set DE,pi1,a_1,-0.040248539367523
+SI-DL single-set DE,pi1,b_1,-0.000185477139943
+SI-DL single-set DE,pi2,r,0.5987780040733186
+SI-DL single-set DE,pi2,q_1,0.0027772634697278
+SI-DL single-set DE,pi2,I,-0.499166820959082
+SI-DL single-set DE,pi2,nu,-0.0894278837252349
+SI-DL single-set DE,pi2,K,-1.0
+SI-DL single-set DE,pi2,g,0.5784114052953152
+SI-DL single-set DE,pi2,omega,-0.0701721903351232
+SI-DL single-set DE,pi2,a_1,0.5828550268468795
+SI-DL single-set DE,pi2,b_1,0.0029624143677095
+IT-PI continuous,pi1,r,-0.03
+IT-PI continuous,pi1,q_1,0.0
+IT-PI continuous,pi1,I,-0.5
+IT-PI continuous,pi1,nu,0.54
+IT-PI continuous,pi1,K,-1.0
+IT-PI continuous,pi1,g,-0.05
+IT-PI continuous,pi1,omega,0.55
+IT-PI continuous,pi1,a_1,-0.04
+IT-PI continuous,pi1,b_1,-0.0
+IT-PI continuous,pi2,r,0.6
+IT-PI continuous,pi2,q_1,0.0
+IT-PI continuous,pi2,I,-0.5
+IT-PI continuous,pi2,nu,-0.09
+IT-PI continuous,pi2,K,-1.0
+IT-PI continuous,pi2,g,0.58
+IT-PI continuous,pi2,omega,-0.07
+IT-PI continuous,pi2,a_1,0.58
+IT-PI continuous,pi2,b_1,0.0
