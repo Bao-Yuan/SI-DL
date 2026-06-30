@@ -1,0 +1,13 @@
+method,variable,normalized_exponent
+MI-DL,U,0.00012081964349480865
+MI-DL,y,-1.0
+MI-DL,t,0.5000604098217476
+MI-DL,nu,0.49993959017825257
+SI-DL,U,0.0009034650923345958
+SI-DL,y,1.0
+SI-DL,t,-0.49954826745383274
+SI-DL,nu,-0.5004517325461673
+Known Rayleigh,U,0.0
+Known Rayleigh,y,1.0
+Known Rayleigh,t,-0.5
+Known Rayleigh,nu,-0.5
